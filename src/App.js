@@ -26,7 +26,7 @@ function App() {
         </Grid>
         <Grid item xs={3}>
           <Paper>
-            <img src="https://flagpedia.net/data/flags/w580/br.png" alt="" alt=""></img>
+            <img src="https://flagpedia.net/data/flags/w580/br.png" alt=""></img>
             <h3>Brazil</h3>
             <p><b>Polupation:</b> 206,135,803</p>
             <p><b>Region:</b> Americas</p>

@@ -8,7 +8,7 @@ function App() {
       <Grid container spacing={3}>
         <Grid item xs={3}>
           <Paper>
-            <img src="https://flagpedia.net/data/flags/w580/de.png alt=""></img>
+            <img src="https://flagpedia.net/data/flags/w580/de.png" alt=""></img>
             <h3>Germany</h3>
             <p><b>Polupation:</b> 81,770,900</p>
             <p><b>Region:</b> Europe</p>
@@ -17,7 +17,7 @@ function App() {
         </Grid>
         <Grid item xs={3}>
           <Paper>
-            <img src="https://flagpedia.net/data/flags/w580/us.png alt="""></img>
+            <img src="https://flagpedia.net/data/flags/w580/us.png" alt=""></img>
             <h3>United States of America</h3>
             <p><b>Polupation:</b> 323,947,000</p>
             <p><b>Region:</b> Americas</p>
